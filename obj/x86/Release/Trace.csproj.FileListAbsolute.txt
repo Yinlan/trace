@@ -1,0 +1,17 @@
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\bin\Release\Trace.exe
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\bin\Release\Trace.pdb
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\bin\Release\Newtonsoft.Json.dll
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\bin\Release\Newtonsoft.Json.xml
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\ResolveAssemblyReference.cache
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\Trace.FormAddProduct.resources
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\Trace.FormAddSource.resources
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\Trace.FormMain.resources
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\Trace.FormConfig.resources
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\Trace.FormQrCode.resources
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\Trace.FormQrCodeQuery.resources
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\Trace.FormTecSupport.resources
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\Trace.Properties.Resources.resources
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\GenerateResource.read.1.tlog
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\GenerateResource.write.1.tlog
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\Trace.exe
+D:\work\sourcecode\c#\Visual Studio 2010\Projects\Trace\Trace\obj\x86\Release\Trace.pdb
